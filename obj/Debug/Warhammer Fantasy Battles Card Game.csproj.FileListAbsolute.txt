@@ -1,0 +1,88 @@
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Warhammer Fantasy Battles Card Game.exe.config
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Warhammer Fantasy Battles Card Game.exe
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Warhammer Fantasy Battles Card Game.pdb
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\obj\Debug\Warhammer Fantasy Battles Card Game.csprojAssemblyReference.cache
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\obj\Debug\Warhammer_Fantasy_Battles_Card_Game.Form1.resources
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\obj\Debug\Warhammer_Fantasy_Battles_Card_Game.New_Game.resources
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\obj\Debug\Warhammer_Fantasy_Battles_Card_Game.Properties.Resources.resources
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\obj\Debug\Warhammer Fantasy Battles Card Game.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\obj\Debug\Warhammer Fantasy Battles Card Game.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\obj\Debug\Warhammer Fantasy Battles Card Game.exe
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\obj\Debug\Warhammer Fantasy Battles Card Game.pdb
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\obj\Debug\Warhammer_Fantasy_Battles_Card_Game.Arena.resources
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Buff Wizard.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Crossbowmen.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Demigryph Knights(Halberds).png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Demigryph Knights.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Empire Knights.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Empire.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Flagellants.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Free Company Militia.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Greatswords.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Halberdiers.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Handgunners.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Knights of the Blazing Sun.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Outriders (Grenade Launcher).png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Outriders.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Pistoliers.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Reiksguard.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Spearman(shield).png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Spearman.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Steam Tank.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Swordsman.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Warrior Priest.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Empire Unit Roster\Witch Hunter.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Arachnarok Spider.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Black Orcs.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Forest Goblin Spider Rider Archers.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Forest Goblin Spider Riders.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Giant.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Goblin Archers.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Goblin Wolf Chariot.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Goblin Wolf Rider Archers.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Goblin Wolf Riders.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Goblins.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Greenskins.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Nasty Skulkers.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Night Goblin Archers.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Night Goblin Squig Hoppers.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Night Goblins.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Orc Arred Boyz.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Orc Big 'Uns.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Orc Boar Boy Big 'Uns.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Orc Boar Boyz.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Orc Boar Chariot.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Orc Boyz.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Orc Shaman.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Savage Orc Arrer Boyz.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Savage Orc Big 'Uns.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Savage Orc Boar Boy Big 'Uns.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Savage Orc Boar Boyz.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Savage Orcs.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Squig Herd.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\Greenskins Unit Roster\Trolls.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Archers(Armour).png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Archers.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Dragon Princes.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Ellyrian Reaver Archers.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Ellyrian Reavers.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Flamespyre Phoenix.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Frostheart Phoenix.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Gate Guard.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Great Eagle.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Ithilmar Chariot.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Lothern Sea Guard(Shields).png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Lothern Sea Guard.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Lothern.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Moon Dragon.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Phoenix Guard.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Silver Helms(Shields).png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Silver Helms.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Spearmen.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Star Dragon.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Sun Dragon.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Support Mage.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Swordmasters of Hoeth.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Tiranoc Chariot.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\White Lions of Chrace.png
+C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\rip.png
