@@ -86,3 +86,6 @@ C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantas
 C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\Tiranoc Chariot.png
 C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\High Elves Unit Roster\White Lions of Chrace.png
 C:\Users\alper\source\repos\Warhammer Fantasy Battles Card Game\Warhammer Fantasy Battles Card Game\bin\Debug\Images\rip.png
+C:\Users\alper\OneDrive\Masaüstü\Warhammer-Fantasy-Battles-Card-Game\obj\Debug\Warhammer Fantasy Battles Card Game.csproj.AssemblyReference.cache
+C:\Users\alper\OneDrive\Masaüstü\Warhammer-Fantasy-Battles-Card-Game\obj\Debug\Warhammer Fantasy Battles Card Game.exe
+C:\Users\alper\OneDrive\Masaüstü\Warhammer-Fantasy-Battles-Card-Game\obj\Debug\Warhammer Fantasy Battles Card Game.pdb
